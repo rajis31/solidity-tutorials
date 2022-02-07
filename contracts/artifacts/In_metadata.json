@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/10_Inheritance.sol": "HotelRoom"
+			"contracts/10_Inheritance.sol": "In"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -33,10 +33,10 @@
 	},
 	"sources": {
 		"contracts/10_Inheritance.sol": {
-			"keccak256": "0xa7c4f39864bf17d18070afab4a81780ab9b49f12ad3f665c94d9c3a1e320f074",
+			"keccak256": "0x6adbc1dd3c512f2792bc564286cbe840aaa552c344d61c623543701abb36bb96",
 			"urls": [
-				"bzz-raw://6e7fcfcce60bdb0416fb5aa6cd36e9633c72ac8cde84fb0e5b76569da5ce1617",
-				"dweb:/ipfs/QmRUVy5R9jAjoaMDMoj8VZJTtny6w4qUASw9nZi7EELyFw"
+				"bzz-raw://ffc73d03937f24c44a2317a7194565bff517150f3a98aa5161c3b555ab85b037",
+				"dweb:/ipfs/QmTFviZqRF5qTLyCPU6ZHRotRa2DU2KU9Sa41r6uSd63mp"
 			]
 		}
 	},

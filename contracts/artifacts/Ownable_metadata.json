@@ -6,28 +6,9 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [
-					{
-						"internalType": "string",
-						"name": "_secret",
-						"type": "string"
-					}
-				],
+				"inputs": [],
 				"stateMutability": "nonpayable",
 				"type": "constructor"
-			},
-			{
-				"inputs": [],
-				"name": "getSecret",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
 			},
 			{
 				"inputs": [],
@@ -52,7 +33,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/10_Inheritance.sol": "MyContract"
+			"contracts/10_Inheritance.sol": "Ownable"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},

@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.6.0+commit.26b70077"
+		"version": "0.6.12+commit.27d51765"
 	},
 	"language": "Solidity",
 	"output": {
@@ -28,31 +28,22 @@
 				],
 				"stateMutability": "view",
 				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "owner",
-				"outputs": [
-					{
-						"internalType": "address",
-						"name": "",
-						"type": "address"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
 			}
 		],
 		"devdoc": {
-			"methods": {}
+			"kind": "dev",
+			"methods": {},
+			"version": 1
 		},
 		"userdoc": {
-			"methods": {}
+			"kind": "user",
+			"methods": {},
+			"version": 1
 		}
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/10_Inheritance.sol": "MyContract"
+			"contracts/10_Inheritance.sol": "Inheritance"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -67,10 +58,10 @@
 	},
 	"sources": {
 		"contracts/10_Inheritance.sol": {
-			"keccak256": "0x5a9e7b0b2587ba02f81552b0904ad68858cfd9e8dc0766ddd3dee4c7f0b3d34a",
+			"keccak256": "0x33d8a5b2b2992adcd20322dbad9f3660c9298057be62790fe9e14dcf72d6da34",
 			"urls": [
-				"bzz-raw://7e7426dc68fff8dd03eff014840e4a28fc4ac61e4b2f23010d856392c104f020",
-				"dweb:/ipfs/QmQxqeydLNi5EYubWoE7i9N5dRKKz1D4HS91rbixHdKQQB"
+				"bzz-raw://6ead7dc95ef151d993052e977f29988163373d5e93ae8c972c0243b965736e33",
+				"dweb:/ipfs/QmWoTdkc6rgTKekqDyjQTBUsmrBGSUks98MRSk4pknBtB9"
 			]
 		}
 	},
