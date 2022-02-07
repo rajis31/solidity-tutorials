@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "book",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address payable",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/9_Payment.sol": "Payment"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/9_Payment.sol": {
+			"keccak256": "0xabff2b88e9c9d0142fc7ad658dd9a861ac6e11da0887964d3cdd00f3c6bb7e68",
+			"urls": [
+				"bzz-raw://ca0f4c67464ab1cdf0461a6e54b30d5abb9e32a138ef9a23847c6ce475592bf9",
+				"dweb:/ipfs/QmUoy7jai14aFQQhbpWXwvGoVFBVdrP61cVpSWHES7x9Nx"
+			]
+		}
+	},
+	"version": 1
+}
